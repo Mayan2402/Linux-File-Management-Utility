@@ -232,7 +232,7 @@ The following screenshots demonstrate the different features of the Linux File M
 
 ## File Operations
 
-![File Operations](screenshots/img2.jpg)
+![File Operations](screenshots/img2.jpeg)
 
 This screenshot demonstrates file creation and basic file operations.
 
@@ -240,7 +240,7 @@ This screenshot demonstrates file creation and basic file operations.
 
 ## Read / Write / Append
 
-![Read Write Append](screenshots/read-write.png)
+![Read Write Append](screenshots/img3.jpeg)
 
 This screenshot demonstrates reading, writing, and appending data to files.
 
