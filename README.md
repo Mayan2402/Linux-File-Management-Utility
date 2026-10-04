@@ -523,9 +523,11 @@ Possible future improvements include:
 
 #  Author
 
-**Your Name**
+NAME - MAYAN SHANKAR
+REG NO - 2341019399
+GROUP - 3
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/Mayan2402`
 
 ---
 
