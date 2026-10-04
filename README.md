@@ -240,7 +240,7 @@ This screenshot demonstrates file creation and basic file operations.
 
 ## Read / Write / Append
 
-![Read Write Append](screenshots/read-write.png)
+![Read Write Append](screenshots/img3.jpeg)
 
 This screenshot demonstrates reading, writing, and appending data to files.
 
