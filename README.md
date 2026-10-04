@@ -232,7 +232,7 @@ The following screenshots demonstrate the different features of the Linux File M
 
 ## File Operations
 
-![File Operations](screenshots/create-file.png)
+![File Operations](screenshots/img2.jpg)
 
 This screenshot demonstrates file creation and basic file operations.
 
