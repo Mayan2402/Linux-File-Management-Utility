@@ -6,7 +6,7 @@ The project also demonstrates important **Linux/POSIX system programming concept
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 **Linux File Management Utility** is a command-line application written in C++17 for managing files and directories in a Linux environment.
 
@@ -16,7 +16,7 @@ This project is designed to provide practical experience with **Linux system cal
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Perform basic file operations.
 * Perform directory operations.
@@ -32,7 +32,7 @@ This project is designed to provide practical experience with **Linux system cal
 
 ---
 
-## ✨ Features
+##  Features
 
 The application provides the following 18 options:
 
@@ -57,7 +57,7 @@ The application provides the following 18 options:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **C++17**
 * **Linux / Ubuntu**
@@ -69,7 +69,7 @@ The application provides the following 18 options:
 
 ---
 
-## 🔧 System Calls / APIs Used
+##  System Calls / APIs Used
 
 | System Call / API | Purpose                                   |
 | ----------------- | ----------------------------------------- |
@@ -84,7 +84,7 @@ The application provides the following 18 options:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 LinuxFileManager/
@@ -114,7 +114,7 @@ LinuxFileManager/
 
 ---
 
-## 💻 Requirements
+##  Requirements
 
 To build and run this project, you need:
 
@@ -133,7 +133,7 @@ git --version
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -159,7 +159,7 @@ If compilation is successful, the executable will be created.
 
 ---
 
-## ▶️ Run the Program
+##  Run the Program
 
 Run the application using:
 
@@ -177,7 +177,7 @@ if the `run` target is included in the Makefile.
 
 ---
 
-## 🧹 Clean the Build
+##  Clean the Build
 
 To remove the compiled executable:
 
@@ -187,7 +187,7 @@ make clean
 
 ---
 
-## 📋 Main Menu
+##  Main Menu
 
 When the program starts, it provides a menu similar to:
 
@@ -220,7 +220,7 @@ Enter your choice:
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 The following screenshots demonstrate the different features of the Linux File Management Utility.
 
@@ -279,7 +279,7 @@ This screenshot demonstrates checking and changing file permissions using `acces
 
 ---
 
-# 🔍 Linux Concepts Demonstrated
+#  Linux Concepts Demonstrated
 
 ## File Descriptors
 
@@ -375,7 +375,7 @@ access()
 
 ---
 
-# 🧪 Testing
+#  Testing
 
 The `tests/` directory can be used for test files and test cases.
 
@@ -400,7 +400,7 @@ The following operations should be tested:
 
 ---
 
-# ⚠️ Error Handling
+#  Error Handling
 
 The application handles common file and directory errors such as:
 
@@ -435,7 +435,7 @@ if (fd == -1) {
 
 ---
 
-# 🏗️ Makefile
+#  Makefile
 
 The project uses a Makefile to simplify compilation.
 
@@ -479,7 +479,7 @@ make clean
 
 ---
 
-# 📚 Learning Outcomes
+#  Learning Outcomes
 
 This project provides practical experience with:
 
@@ -502,7 +502,7 @@ This project provides practical experience with:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Possible future improvements include:
 
@@ -521,21 +521,23 @@ Possible future improvements include:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
-**Your Name**
+NAME - MAYAN SHANKAR
+REG NO - 2341019399
+GROUP - 3
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/Mayan2402`
 
 ---
 
-# 📄 License
+#  License
 
 This project is developed for **educational and academic purposes**.
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 The **Linux File Management Utility** is a practical Linux system programming project that demonstrates how C++ applications can interact with the Linux operating system.
 
