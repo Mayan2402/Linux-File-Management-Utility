@@ -226,7 +226,7 @@ The following screenshots demonstrate the different features of the Linux File M
 
 ## Main Menu
 
-![Main Menu](screenshots/img1.png)
+![Main Menu](screenshots/img1.jpeg)
 
 ---
 
