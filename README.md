@@ -265,7 +265,7 @@ This screenshot demonstrates recursive file searching.
 
 ## File Information
 
-![File Information](screenshots/file-information.png)
+![File Information](screenshots/img7.jpeg)
 
 This screenshot demonstrates displaying file information using the `stat()` system call.
 
