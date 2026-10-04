@@ -1,95 +1,78 @@
-# 🗂️ Linux File Management Utility
+# Linux File Management Utility
 
-A command-line based file management utility developed in **C++17 for Linux/Ubuntu**.
+## Project Description
 
-This project demonstrates Linux system programming concepts by performing file and directory operations using **Linux/POSIX system calls, file descriptors, permissions, file metadata, and low-level file handling**.
+Linux File Management Utility is a menu-driven C++ application developed for Linux/Ubuntu.
 
----
+It allows users to perform common file and directory operations through a simple menu.
 
-## 📌 Project Overview
+The project also demonstrates Linux system programming concepts such as file descriptors, file permissions, `lseek()`, `stat()`, `chmod()` and `access()`.
 
-The **Linux File Management Utility** provides a simple menu-driven interface for managing files and directories from the Linux terminal.
+## Objectives
 
-Instead of depending only on high-level C++ file-handling libraries, the project demonstrates how Linux system calls such as `open()`, `read()`, `write()`, `lseek()`, `stat()`, `chmod()`, and `access()` can be used to interact directly with the operating system.
+- Perform basic file operations.
+- Perform directory operations.
+- Search files recursively.
+- Display file information.
+- Change and check file permissions.
+- Demonstrate file descriptors.
+- Demonstrate `lseek()`.
+- Understand Linux/POSIX system programming.
+- Use C++ and Makefile for development.
 
-The project is designed to provide practical understanding of:
+## Features
 
-- Linux file management
-- POSIX system calls
-- File descriptors
-- File permissions
-- Directory management
-- File metadata
-- File positioning
-- Recursive file searching
-- Linux process file descriptors
-- C++ Object-Oriented Programming
+1. List Files
+2. Create File
+3. Read File
+4. Write File
+5. Append to File
+6. Create Directory
+7. Remove Directory
+8. Delete File
+9. Copy File
+10. Move File
+11. Rename File
+12. Search File
+13. File Information
+14. Change Permissions
+15. Check Permissions
+16. lseek Demonstration
+17. File Descriptor Monitoring
+18. Exit
 
----
+## Technologies Used
 
-# ✨ Features
+- C++17
+- Linux / Ubuntu
+- g++
+- Linux/POSIX System Calls
+- Makefile
+- Git/GitHub
 
-The application provides the following operations:
+## System Calls / APIs Used
 
-| Option | Feature | Description |
-|-------:|---------|-------------|
-| 1 | List Files | Display files and directories |
-| 2 | Create File | Create a new file |
-| 3 | Read File | Read and display file contents |
-| 4 | Write File | Write content to a file |
-| 5 | Append to File | Add content to an existing file |
-| 6 | Create Directory | Create a new directory |
-| 7 | Remove Directory | Remove an existing directory |
-| 8 | Delete File | Delete a file |
-| 9 | Copy File | Copy data from one file to another |
-| 10 | Move File | Move a file to another location |
-| 11 | Rename File | Rename an existing file |
-| 12 | Search File | Search for a file |
-| 13 | File Information | Display file metadata |
-| 14 | Change Permissions | Modify file permissions |
-| 15 | Check Permissions | Check read, write and execute permissions |
-| 16 | lseek Demonstration | Demonstrate file positioning |
-| 17 | File Descriptor Monitoring | Display file descriptors associated with the process |
-| 18 | Exit | Exit the application |
+- `open()`
+- `read()`
+- `write()`
+- `close()`
+- `lseek()`
+- `stat()`
+- `chmod()`
+- `access()`
 
----
-
-# 🛠Technologies Used
-
-### Programming Language
-- **C++17**
-
-### Operating System
-- **Linux / Ubuntu**
-
-### Development Tools
-- GNU G++
-- Make
-- Git
-- GitHub
-- GNU Nano / VS Code
-
-### System Programming
-- POSIX System Calls
-- File Descriptors
-- Linux File System
-
----
-
-#  Linux/POSIX System Calls
-
-The project demonstrates important Linux system calls including:
+## Project Structure
 
 ```text
-open()
-read()
-write()
-close()
-lseek()
-stat()
-chmod()
-access()
-mkdir()
-rmdir()
-unlink()
-rename()
+LinuxFileManager/
+│
+├── src/
+│   ├── main.cpp
+│   ├── file_operations.cpp
+│   └── file_operations.h
+│
+├── Makefile
+├── README.md
+├── docs/
+├── screenshots/
+└── tests/
