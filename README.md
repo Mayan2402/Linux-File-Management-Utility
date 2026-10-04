@@ -74,5 +74,35 @@ LinuxFileManager/
 ├── Makefile
 ├── README.md
 ├── docs/
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/img1.png)
+
+### File Operations
+
+![File Operations](screenshots/create-file.png)
+
+### Read / Write / Append
+
+![Read Write Append](screenshots/read-write.png)
+
+### Directory Operations
+
+![Directory Operations](screenshots/directory-operations.png)
+
+### Search File
+
+![Search File](screenshots/search-file.png)
+
+### File Information
+
+![File Information](screenshots/file-information.png)
+
+### File Permissions
+
+![File Permissions](screenshots/permissions.png)
 ├── screenshots/
 └── tests/
