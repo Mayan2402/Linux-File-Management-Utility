@@ -248,7 +248,8 @@ This screenshot demonstrates reading, writing, and appending data to files.
 
 ## Directory Operations
 
-![Directory Operations](screenshots/directory-operations.png)
+![Directory Operations](screenshots/img4.jpeg)
+![Directory Operations](screenshots/img5.jpeg)
 
 This screenshot demonstrates creating and removing directories.
 
