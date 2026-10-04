@@ -257,7 +257,7 @@ This screenshot demonstrates creating and removing directories.
 
 ## Search File
 
-![Search File](screenshots/search-file.png)
+![Search File](screenshots/img6.jpeg)
 
 This screenshot demonstrates recursive file searching.
 
