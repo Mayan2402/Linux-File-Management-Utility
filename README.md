@@ -273,7 +273,7 @@ This screenshot demonstrates displaying file information using the `stat()` syst
 
 ## File Permissions
 
-![File Permissions](screenshots/permissions.png)
+![File Permissions](screenshots/img8.jpeg)
 
 This screenshot demonstrates checking and changing file permissions using `access()` and `chmod()`.
 
